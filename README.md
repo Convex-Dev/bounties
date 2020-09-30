@@ -4,7 +4,7 @@ Repository for the Convex Bounty programme. Earn Convex Coins for solving proble
 
 ## How it works
 
-You can earn a bounty by solving a challenge with a bounty in the "Issues" field
+You can earn a bounty by solving a challenge with a bounty. Bounties are listed as (GitHub Issues)[https://github.com/Convex-Dev/bounties/issues] in this repository.
 
 ## Rules
 
