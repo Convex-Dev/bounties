@@ -18,7 +18,7 @@ You can earn a bounty by solving a challenge with a bounty. Bounties are listed 
 
 5. Before receiving the bounty, the lead contributor must specify the Convex Account by providing an Ed25519 Public Key (64 hex digits). It is the contributor's responsibility to ensure that they possess the corresponding private key and keep it secure, otherwise their bounty may be lost.
 
-6. The bounty will be paid into a Convex Account after the the launch of the Convex main network.
+6. The bounty will be paid into the specified Convex Account after the the launch of the Convex main network.
 
 7. Bounties are awarded at the discetion of the Convex Foundation. In the event of any dispute, the Foundation's decision is final.
 
